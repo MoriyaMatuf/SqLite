@@ -1,0 +1,7 @@
+C:\Users\rasko\Desktop\ziyonet\Solution\task\bin\Debug\task.exe.config
+C:\Users\rasko\Desktop\ziyonet\Solution\task\bin\Debug\task.exe
+C:\Users\rasko\Desktop\ziyonet\Solution\task\bin\Debug\task.pdb
+C:\Users\rasko\Desktop\ziyonet\Solution\task\obj\Debug\task.csprojAssemblyReference.cache
+C:\Users\rasko\Desktop\ziyonet\Solution\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\ziyonet\Solution\task\obj\Debug\task.exe
+C:\Users\rasko\Desktop\ziyonet\Solution\task\obj\Debug\task.pdb

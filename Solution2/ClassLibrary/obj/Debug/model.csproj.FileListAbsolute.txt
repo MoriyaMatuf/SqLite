@@ -1,0 +1,6 @@
+C:\Users\rasko\Desktop\Solution2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\rasko\Desktop\Solution2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\rasko\Desktop\Solution2\ClassLibrary\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\rasko\Desktop\Solution2\ClassLibrary\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\Solution2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\rasko\Desktop\Solution2\ClassLibrary\obj\Debug\ClassLibrary.pdb
